@@ -8,6 +8,8 @@
 - 📫 Reach me at [Gmail](sparshsinha.spavis@gmail.com) or simply drop a dm on [Twitter](https://twitter.com/sparshtwts)
 - ⚡ Fun fact: I almost took the same amount of time in figuring what to write as I took to actually do all of these.
 
+### :fire: My stats:
+
 [![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=benasus25&count_private=true&show_icons=true&theme=radical)](https://github.com/benasus25/github-readme-stats)
 
 <!--
