@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a project that creates a private and secure communication channel among authorized users of a group. You can find more about that at - [Github repo](https://github.com/benasus25/intra-organisational-server)
-- 🌱 I’m currently learning React and TypeScript. I would also love to dabble in the world of web 3.0
+- 🌱 I’m currently learning SpringBoot and Docker. I would also love to dabble in the world of Web 3.0
 - 👯 I’m looking to join and enrich communities that support developers like me to refine and grow among ourselves. 
-- 🤔 I’m looking for help in starting with open source contributions and how to find the right 
-- 💬 Ask me about DSA and backend development. I seem to have developed a good grasp on both of them.
+- 🤔 I’m looking for help in starting with open-source contributions and how to find the right GitHub repository 
+- 💬 Ask me about DSA and backend development. I seem to have developed a good grasp of both of them.
 - 📫 Reach me at [Gmail](sparshsinha.spavis@gmail.com) or simply drop a dm on [Twitter](https://twitter.com/sparshtwts)
-- ⚡ Fun fact: I almost took the same amount of time in figuring what to write as I took to actually do all of these.
+- ⚡ Fun fact: I almost took the same amount of time in figuring out what to write as I took to actually do all of these.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -26,7 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -44,8 +43,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project that creates a private and secure communication channel among authorized users of a group. You can find more about that at - [Github repo](https://github.com/benasus25/intra-organisational-server)
 - 🌱 I’m currently learning React and TypeScript. I would also love to dabble in the world of web 3.0
 - 👯 I’m looking to join and enrich communities that support developers like me to refine and grow among ourselves. 
-- 🤔 I’m looking for help in starting with open source contributions and how to find the right 
-- 💬 Ask me about DSA and backend development. I seem to have developed a good grasp on both of them.
+- 🤔 I’m looking for help in starting with open-source contributions and how to find the right 
+- 💬 Ask me about DSA and backend development. I seem to have developed a good grasp of both of them.
 - 📫 Reach me at sparshsinha.spavis@gmail.com or simply drop a dm on [Twitter](https://twitter.com/sparshtwts)
 - ⚡ Fun fact: I almost took the same amount of time in figuring what to write as I took to actually do all of these.
 
